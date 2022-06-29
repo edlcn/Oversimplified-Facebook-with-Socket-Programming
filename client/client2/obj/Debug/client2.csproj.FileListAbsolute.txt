@@ -1,0 +1,9 @@
+C:\Users\emrhn\Desktop\adsad\edelican_Delican_Emirhan_Step2\client\client2\bin\Debug\client2.exe.config
+C:\Users\emrhn\Desktop\adsad\edelican_Delican_Emirhan_Step2\client\client2\bin\Debug\client2.exe
+C:\Users\emrhn\Desktop\adsad\edelican_Delican_Emirhan_Step2\client\client2\bin\Debug\client2.pdb
+C:\Users\emrhn\Desktop\adsad\edelican_Delican_Emirhan_Step2\client\client2\obj\Debug\client2.csprojResolveAssemblyReference.cache
+C:\Users\emrhn\Desktop\adsad\edelican_Delican_Emirhan_Step2\client\client2\obj\Debug\client2.Form1.resources
+C:\Users\emrhn\Desktop\adsad\edelican_Delican_Emirhan_Step2\client\client2\obj\Debug\client2.Properties.Resources.resources
+C:\Users\emrhn\Desktop\adsad\edelican_Delican_Emirhan_Step2\client\client2\obj\Debug\client2.csproj.GenerateResource.Cache
+C:\Users\emrhn\Desktop\adsad\edelican_Delican_Emirhan_Step2\client\client2\obj\Debug\client2.exe
+C:\Users\emrhn\Desktop\adsad\edelican_Delican_Emirhan_Step2\client\client2\obj\Debug\client2.pdb
